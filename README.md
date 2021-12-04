@@ -26,7 +26,7 @@ THEN they fall in sequential order
 * WHEN I view the title element
 THEN I find a concise, descriptive title
 
-## Mockup
+## Mockup Image
 
 ![Mockup](Develop\assets\images\01-html-css-git-homework-demo.png)
 
