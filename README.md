@@ -1,11 +1,12 @@
 # Bootcamp Challenge #1 HTML CSS Git Challenge: Code Refactor
 
 ## Finished Assignment
-Horiseon Site: https://ajureel.github.io/AJs_Horiseon/Develop/index.html#search-engine-optimization
 
-Github Repo: https://github.com/ajureel/AJs_Horiseon
+Horiseon Site:[https://ajureel.github.io/AJs_Horiseon/Develop/index.html#search-engine-optimization](https://ajureel.github.io/AJs_Horiseon/Develop/index.html#search-engine-optimization)
 
-Github Readme: https://ajureel.github.io/AJs_Horiseon/
+Github Repo: [https://github.com/ajureel/AJs_Horiseon](https://github.com/ajureel/AJs_Horiseon)
+
+Github Readme: [https://ajureel.github.io/AJs_Horiseon/](https://ajureel.github.io/AJs_Horiseon/)
 
 ## User Story
 AS A marketing agency
@@ -26,6 +27,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Mockup
+
 ![Mockup](Develop\assets\images\01-html-css-git-homework-demo.png)
 
 ## Challenge Requirements
@@ -52,4 +54,5 @@ THEN I find a concise, descriptive title
 5. Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ## Example Code Compare
+
 ![Code-compare-screenshot](Develop\assets\images\Git-Compare.PNG)
