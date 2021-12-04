@@ -26,7 +26,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Mockup
-![Mockup](.\Develop\assets\images\01-html-css-git-homework-demo.png)
+![Mockup](Develop\assets\images\01-html-css-git-homework-demo.png)
 
 ## Challenge Requirements
 ### Technical Acceptance Criteria: 40%
@@ -52,4 +52,4 @@ THEN I find a concise, descriptive title
 5. Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ## Example Code Compare
-!["Code compare screenshot"] (.\Develop\assets\images\Git-Compare.PNG)
+![Code-compare-screenshot](Develop\assets\images\Git-Compare.PNG)
