@@ -2,7 +2,7 @@
 
 ## Finished Assignment
 
-Horiseon Site:[https://ajureel.github.io/AJs_Horiseon/Develop/index.html#search-engine-optimization](https://ajureel.github.io/AJs_Horiseon/Develop/index.html#search-engine-optimization)
+Horiseon Site:[https://ajureel.github.io/AJs_Horiseon/Develop/index.html](https://ajureel.github.io/AJs_Horiseon/Develop/index.html)
 
 Github Repo: [https://github.com/ajureel/AJs_Horiseon](https://github.com/ajureel/AJs_Horiseon)
 
