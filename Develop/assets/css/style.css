@@ -1,19 +1,29 @@
+/**** Set global box size and padding ****/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/**** Variables for colors ****/
+:root {
+    --main-bg-color: #d9dcd6;
+    --blueish: #2a607c;
+    --whiteish: #ffffff;
+    --blue2: #0072bb;
+    --blue3: #2589bd; 
+  }
+
 body {
-    background-color: #d9dcd6;
+    background-color: var(--main-bg-color);
 }
 
 /**** Header styles ****/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
+    background-color: var(--blueish);
+    color: var(--whiteish);
 }
 
 .header h1 {
@@ -22,7 +32,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: var(--main-bg-color);
 }
 
 .header div {
@@ -44,7 +54,7 @@ body {
 
 /*** Anchors and Paragraphs ****/
 a {
-    color: #ffffff;
+    color: var(--whiteish);
     text-decoration: none;
 }
 
@@ -85,8 +95,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: var(--blue2);
+    color: var(--whiteish);
 }
 
 .content img {
@@ -107,12 +117,12 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: var(--blue3);
 }
 
 .benefits div {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: var(--whiteish);
 }
 
 .benefits div h3 {
